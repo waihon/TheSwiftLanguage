@@ -19,3 +19,7 @@ var arrayOfStrings: [String] = []
 // Dictionary types
 var capitalsByCountry: Dictionary<String,String> = [:]
 var airportsByCity: [String:String] = [:]
+
+// Set types
+var winningLotteryNumbers: Set<Int> = []
+var carRegistrationNumbers: Set<String> = []
