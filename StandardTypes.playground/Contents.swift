@@ -12,3 +12,6 @@ var nextYear: Int = 0
 var bodyTemp: Float = 0
 var hasPet: Bool = true
 
+// Array types
+var arrayOfInts: Array<Int> = []
+var arrayOfStrings: [String] = []
