@@ -30,3 +30,6 @@ let fmStation = 98.8
 
 // Array literal
 let currentTopFour = ["Liverpool", "Man City", "Leicester", "Chelsea"]
+
+// Dictionary literal
+let nameByParkingLot = [8: "Adam", 18: "Irene", 28: "Joe"]
