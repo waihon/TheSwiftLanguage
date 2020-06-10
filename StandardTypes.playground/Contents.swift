@@ -27,3 +27,6 @@ var carRegistrationNumbers: Set<String> = []
 // Number literals
 let number = 48
 let fmStation = 98.8
+
+// Array literal
+let currentTopFour = ["Liverpool", "Man City", "Leicester", "Chelsea"]
