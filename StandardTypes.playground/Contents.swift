@@ -33,3 +33,6 @@ let currentTopFour = ["Liverpool", "Man City", "Leicester", "Chelsea"]
 
 // Dictionary literal
 let nameByParkingLot = [8: "Adam", 18: "Irene", 28: "Joe"]
+
+// Subscripting as shorthand for accessing array elements
+let topTwo = currentTopFour[1]
