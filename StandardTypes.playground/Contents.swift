@@ -23,3 +23,7 @@ var airportsByCity: [String:String] = [:]
 // Set types
 var winningLotteryNumbers: Set<Int> = []
 var carRegistrationNumbers: Set<String> = []
+
+// Number literals
+let number = 48
+let fmStation = 98.8
